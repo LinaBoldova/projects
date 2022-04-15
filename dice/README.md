@@ -6,6 +6,8 @@ When the button is pressed, a new pair of rolled dice is displayed.
 ## Example
 
 Home Screen:
-![Simulator Screen Shot - iPhone SE (3rd generation)](https://user-images.githubusercontent.com/99369245/163609123-a70b471e-2684-4497-bd39-ea6f14582bdb.png=75x133)
+
 After pressing the button:
-![Simulator Screen Shot - iPhone SE (3rd generation) - 2022-04-15 at 21 28 29](https://user-images.githubusercontent.com/99369245/163609149-4584a745-adc4-4752-8fcb-022ca6dfe188.png=75x133)
+
+![output-onlinepngtools](https://user-images.githubusercontent.com/99369245/163619412-452a901b-e766-4c0b-9ae8-121368b86cd7.png)
+![output-onlinepngtools-2](https://user-images.githubusercontent.com/99369245/163619431-40a57f65-b311-4f9e-ab22-e0dd74bedafb.png)
