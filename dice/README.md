@@ -1,16 +1,12 @@
 # dice
 
-A new Flutter project.
+This application was made as part of the course on Udemy. 
+When the button is pressed, a new pair of rolled dice is displayed.
 
-## Getting Started
+## Example
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Home Screen:
+![Simulator Screen Shot - iPhone SE (3rd generation) - 2022-04-15 at 21 28 22](https://user-images.githubusercontent.com/99369245/163609123-a70b471e-2684-4497-bd39-ea6f14582bdb.png)
+After pressing the button:
+![Simulator Screen Shot - iPhone SE (3rd generation) - 2022-04-15 at 21 28 29](https://user-images.githubusercontent.com/99369245/163609149-4584a745-adc4-4752-8fcb-022ca6dfe188.png)
