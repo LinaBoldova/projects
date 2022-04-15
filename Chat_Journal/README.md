@@ -45,7 +45,6 @@
 В данном (опциональном) режиме можно добавлять сообщения в избранное, удалять, копировать в буфер и редактироввать.
 
 ![output-onlinepngtools-11](https://user-images.githubusercontent.com/99369245/163625163-96dd99c4-c29e-4090-9824-dd31dce4f38e.png)
-
 ![output-onlinepngtools-10](https://user-images.githubusercontent.com/99369245/163625178-1bf51a6d-e874-47a3-941e-84eb84d75885.png)
 
 
