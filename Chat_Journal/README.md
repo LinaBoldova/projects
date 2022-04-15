@@ -30,4 +30,23 @@
 Каждая тема имеет диалоговое окно в которое можно добавлять сообщения(заметки) с левой стороны(единичным нажатием) и с правой стороны(долгим нажатием).
 
 ![output-onlinepngtools-7](https://user-images.githubusercontent.com/99369245/163624634-8b4bcd25-1b2b-4e15-a4ad-56896adcd7d2.png)
-![output-onlinepngtools-7](https://user-images.githubusercontent.com/99369245/163624634-8b4bcd25-1b2b-4e15-a4ad-56896adcd7d2.png)
+
+Избранные сообщения данного диалога можно просмотреть в отдельном окне:
+
+![output-onlinepngtools-8](https://user-images.githubusercontent.com/99369245/163625064-f91e708e-be18-4a0d-8b09-750c3d9f90d8.png)
+
+
+При двойном нажатии на сообщение оно попадает в режим редактирования:
+
+![output-onlinepngtools-9](https://user-images.githubusercontent.com/99369245/163624948-93e483d2-3b6e-4f6c-a58c-57984d27730e.png)
+
+
+При единичном нажатии сообщение выделяется и далее можно выбрать еще.
+В данном (опциональном) режиме можно добавлять сообщения в избранное, удалять, копировать в буфер и редактироввать.
+
+![output-onlinepngtools-11](https://user-images.githubusercontent.com/99369245/163625163-96dd99c4-c29e-4090-9824-dd31dce4f38e.png)
+
+![output-onlinepngtools-10](https://user-images.githubusercontent.com/99369245/163625178-1bf51a6d-e874-47a3-941e-84eb84d75885.png)
+
+
+
