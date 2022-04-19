@@ -47,5 +47,10 @@
 ![output-onlinepngtools-11](https://user-images.githubusercontent.com/99369245/163625163-96dd99c4-c29e-4090-9824-dd31dce4f38e.png)
 ![output-onlinepngtools-10](https://user-images.githubusercontent.com/99369245/163625178-1bf51a6d-e874-47a3-941e-84eb84d75885.png)
 
+# Новая тема
 
+Можно добавлять новые темы на главную страницу или редактировать/удалять существующие
+![output-onlinepngtools-12](https://user-images.githubusercontent.com/99369245/163976647-16e69661-3aa4-4413-8fb6-0fb64ea1cac4.png)
+![output-onlinepngtools](https://user-images.githubusercontent.com/99369245/163976661-3999f432-71c5-4013-8928-301bfceb9187.png)
+![output-onlinepngtools-13](https://user-images.githubusercontent.com/99369245/163976688-a9438499-9ded-4a7f-b16b-8ed8a90219b4.png)
 
