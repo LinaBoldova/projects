@@ -1,16 +1,10 @@
 # gallery
 
-A new Flutter project.
+An application that displays a gallery of photos from https://pixabay.com/ upon request "room";
 
-## Getting Started
+## Application view
+ Scrollable grid of photos.
 
-This project is a starting point for a Flutter application.
+![output-onlinepngtools-15](https://user-images.githubusercontent.com/99369245/163979259-b4e7092b-f987-40f1-babf-582bb4766081.png)
+![output-onlinepngtools-14](https://user-images.githubusercontent.com/99369245/163979244-7dd9310e-1134-49ef-8a99-814abe43575a.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
